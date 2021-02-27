@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 2D Waterfall
+  m_Shader: {fileID: -6465566751694194690, guid: 77a39429740dbf44cb8be7ace231d1b5,
+    type: 3}
+  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_36D9F3EF:
+        m_Texture: {fileID: 2800000, guid: 4ca38e39ea44b5945ab2faa7acbe5c59, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_A2DC433F:
+        m_Texture: {fileID: 2800000, guid: 805c448d21c9f2744aa0d80d8c1e83cf, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_BE919EBD:
+        m_Texture: {fileID: 2800000, guid: ebf7c8f7740751d4487d5c649aa8cc4b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_FC782FF6:
+        m_Texture: {fileID: 2800000, guid: 1f89fed00b6bc904c861ab847a811cb8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 92fc7feb0cf5ba745879b0efae714a78, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_15E3875E: 1.12
+    - Vector1_1B1546E2: 0.3
+    - Vector1_22E8AA83: 27.6
+    - Vector1_315E3677: 44.3
+    - Vector1_3843E059: 3
+    - Vector1_48D3E02E: 1
+    - Vector1_55CA8798: 0.88
+    - Vector1_5D0BDEE: 30
+    - Vector1_7F57267D: 4
+    - Vector1_8D8917AD: 10
+    - Vector1_967AC35D: 209.76
+    - Vector1_B93F9ECB: 1.25
+    - Vector1_D4380E19: 3
+    - Vector1_FFADFC9F: -2.8
+    m_Colors:
+    - Color_2F535CD4: {r: 1, g: 1, b: 1, a: 1}
+    - Color_486512ED: {r: 22.894424, g: 22.894424, b: 22.894424, a: 1}
+    - Color_4ECD062B: {r: 0.050535444, g: 0, b: 2.5496922, a: 1}
+    - Color_5E3617EE: {r: 1, g: 1, b: 1, a: 1}
+    - Color_BBBE37DF: {r: 0.25882354, g: 0.33049625, b: 0.5019608, a: 1}
+    - Vector2_2167CA08: {r: 0, g: -1.05, b: 0, a: 0}
+    - Vector2_66BB5A6D: {r: 0, g: 0, b: 0, a: 0}
+    - Vector2_7F8959C5: {r: 0, g: 0.9, b: 0, a: 0}
+    - Vector2_B743D039: {r: 0, g: 1, b: 0, a: 0}
+    - Vector2_CE711C22: {r: 0, g: 1, b: 0, a: 0}

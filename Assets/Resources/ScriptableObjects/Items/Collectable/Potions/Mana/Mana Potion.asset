@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf6928da834203944ba603c0e93c67a1, type: 3}
+  m_Name: Mana Potion
+  m_EditorClassIdentifier: 
+  _sprite: {fileID: 3087637098824475019, guid: c243b7c52761864489f2a71d23f6a1d0, type: 3}
+  _name: Small Mana Potion
+  itemType: 0
+  manaAmount: 120

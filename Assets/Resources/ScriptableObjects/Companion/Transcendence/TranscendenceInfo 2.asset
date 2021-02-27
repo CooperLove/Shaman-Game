@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10ce5fa83decc1542b56c0438a364448, type: 3}
+  m_Name: TranscendenceInfo 2
+  m_EditorClassIdentifier: 
+  compName: Evo 02
+  compImage: {fileID: 21300000, guid: 6172ae31be81cc247b6e35664001455b, type: 3}
+  description: 222222222222222222222222222222222222222222222
+  intelligence: 2
+  intellect: 2
+  wisdom: 2
+  additionalForce: 2
+  additionalInt: 2
+  additionalDex: 2
+  additionalCon: 2
+  additionalVigor: 2
+  uniqueSpell: {fileID: 2711634613521057620, guid: 7a38a461ac74bd54cb35745594602fb5,
+    type: 3}

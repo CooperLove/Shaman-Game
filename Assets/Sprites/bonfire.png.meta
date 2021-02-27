@@ -1,0 +1,502 @@
+fileFormatVersion: 2
+guid: 2bce04d409cb5d7408c2a78edca45310
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5801255725635399724
+    second: bonfire_0
+  - first:
+      213: -841097564060088913
+    second: bonfire_1
+  - first:
+      213: -4144230483103788195
+    second: bonfire_2
+  - first:
+      213: 9098395064655027044
+    second: bonfire_3
+  - first:
+      213: -5288405454392149618
+    second: bonfire_4
+  - first:
+      213: -8759645116765742646
+    second: bonfire_5
+  - first:
+      213: 4937110352898362749
+    second: bonfire_6
+  - first:
+      213: 4525032119046802881
+    second: bonfire_7
+  - first:
+      213: -8045351505000502179
+    second: bonfire_8
+  - first:
+      213: 5694594899627226957
+    second: bonfire_9
+  - first:
+      213: -6661191040511696980
+    second: bonfire_10
+  - first:
+      213: 8794802717153088668
+    second: bonfire_11
+  - first:
+      213: -8011461529802790265
+    second: bonfire_12
+  - first:
+      213: 5414598274074076719
+    second: bonfire_13
+  - first:
+      213: 4139084473950721155
+    second: bonfire_14
+  - first:
+      213: -5855182915416473491
+    second: bonfire_15
+  - first:
+      213: -1057903673558258669
+    second: bonfire_16
+  - first:
+      213: 4302768128455962494
+    second: bonfire_17
+  - first:
+      213: 1326262035119649507
+    second: bonfire_18
+  - first:
+      213: -3444421848691552
+    second: bonfire_19
+  - first:
+      213: -4480509922751198775
+    second: bonfire_20
+  - first:
+      213: -3350270585931416280
+    second: bonfire_21
+  - first:
+      213: 3615381616237926419
+    second: bonfire_22
+  - first:
+      213: -2110286764295874705
+    second: bonfire_23
+  - first:
+      213: 1695148443020436125
+    second: bonfire_24
+  - first:
+      213: -1337589251437216580
+    second: bonfire_25
+  - first:
+      213: 1828379427244012379
+    second: bonfire_26
+  - first:
+      213: -2386636785226397397
+    second: bonfire_27
+  - first:
+      213: -1890107355488707587
+    second: bonfire_28
+  - first:
+      213: 4655633582500042452
+    second: bonfire_29
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bonfire_1
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 784
+        width: 118
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa580c8c832d354f0800000000000000
+      internalID: -841097564060088913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonfire_2
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 784
+        width: 117
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53d04b255cbc76c0800000000000000
+      internalID: -4144230483103788195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonfire_5
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 784
+        width: 117
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac951b84d2d7f6680800000000000000
+      internalID: -8759645116765742646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonfire_6
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 784
+        width: 118
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d096145b3248440800000000000000
+      internalID: 4937110352898362749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonfire_7
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 473
+        width: 117
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd8405dcb42cce30800000000000000
+      internalID: 4525032119046802881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonfire_13
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 654
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26e0a74174842b40800000000000000
+      internalID: 5414598274074076719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonfire_17
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 473
+        width: 117
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f6d77d0d086bb30800000000000000
+      internalID: 4302768128455962494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonfire_18
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 473
+        width: 117
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2b46a4b44d76210800000000000000
+      internalID: 1326262035119649507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonfire_19
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 473
+        width: 118
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac804b0153c3fff0800000000000000
+      internalID: -3444421848691552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonfire_26
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 155
+        width: 118
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53f283e665bf5910800000000000000
+      internalID: 1828379427244012379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonfire_27
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 161
+        width: 117
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2943b02d76f0eed0800000000000000
+      internalID: -2386636785226397397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonfire_28
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 155
+        width: 128
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb1eb8df5df4c5e0800000000000000
+      internalID: -1890107355488707587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonfire_29
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 162
+        width: 117
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d65b41a3122c9040800000000000000
+      internalID: 4655633582500042452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

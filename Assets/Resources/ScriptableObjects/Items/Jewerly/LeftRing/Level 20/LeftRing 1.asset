@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca67e78a275ab8943bf0fea0f9055d1a, type: 3}
+  m_Name: LeftRing 1
+  m_EditorClassIdentifier: 
+  _inventorySprite: {fileID: 21300000, guid: 970324311431c794ca338446ea889948, type: 3}
+  _equippedSprite: {fileID: 21300000, guid: 86dcbfe4cec147843801a196ee2aa585, type: 3}
+  _name: A Common Ring
+  itemType: 7
+  handler: {fileID: 0}
+  _necessaryLevel: 1
+  _necessaryForce: 2
+  _necessaryInt: 3
+  _necessaryDex: 4
+  _necessaryCon: 5
+  _necessaryVigor: 6
+  _phrase: "\u201CWe\u2019re going to make it happen. As God is my bloody witness,
+    I\u2019m hell-bent on making it work.\u201D"
+  armor: 1
+  magicResistance: 2

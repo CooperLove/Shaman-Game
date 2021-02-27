@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d630fe7531effc4789d2e5752c8fcb3, type: 3}
+  m_Name: Comp Quest 4
+  m_EditorClassIdentifier: 
+  id: 4
+  questName: Companion Quest 05
+  description: Companion Quest 05 Companion Quest 05
+  isPlayerQuest: 0
+  isMainQuest: 0
+  needsToBeAcceptedByPlayer: 1
+  necessaryLevel: 0
+  goldGiven: 0
+  experience: 0
+  reward: {fileID: 11400000, guid: 84a17a47724a7fe44b7e511077922736, type: 2}
+  isInProgress: 0
+  isCompleted: 0
+  previousQuest: {fileID: 0}
+  nextQuest: {fileID: 0}
+  enemies: []

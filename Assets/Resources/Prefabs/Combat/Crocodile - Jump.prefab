@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5662192508642763084
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6993848409872880400}
+  - component: {fileID: 4521598826867800520}
+  - component: {fileID: -4181328921494296519}
+  m_Layer: 0
+  m_Name: Crocodile - Jump
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6993848409872880400
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5662192508642763084}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -290.97845, y: 138.07555, z: 29.62781}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4521598826867800520
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5662192508642763084}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfac6a812eb4cc4459c3aead6717e680, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  canUse: 0
+  animationLength: 0.15
+  setPlayerAsParent: 0
+  isSinglePath: 1
+  airAttack: 0
+  becomeAirAttack: 0
+  airDuration: 0.5
+  waitTime: 0.75
+  resetTime: 1.5
+  leftNode: {fileID: -5362887706821033326, guid: 0883e323dea50cc47ba074ac1ff7aecc,
+    type: 3}
+  rightNode: {fileID: 0}
+--- !u!114 &-4181328921494296519
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5662192508642763084}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2166c195f98ab214c92f46ec5e2d73f6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pos: {x: 35, y: 20, z: 0}
+  size: {x: 60, y: 30, z: 0}
+  speed: 250
+  offset: 10
+  minDist: 3
+  enemyLayer:
+    serializedVersion: 2
+    m_Bits: 0

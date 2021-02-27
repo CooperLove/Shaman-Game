@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Aura Outline Material
+  m_Shader: {fileID: -6465566751694194690, guid: be7da728ee572064d9ea684881229a29,
+    type: 3}
+  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 49195c64813017f4c8dadd05a70184e2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_43A84F0A: 10
+    - Vector1_D07E7C9: 10.19
+    - Vector1_EE9B2BE: 55.23
+    m_Colors:
+    - Color_CECB57AB: {r: 0.18030265, g: 0.8582406, b: 1.637148, a: 1}
+    - Vector2_8D9DACDA: {r: 0.31, g: -0.15, b: 0, a: 0}

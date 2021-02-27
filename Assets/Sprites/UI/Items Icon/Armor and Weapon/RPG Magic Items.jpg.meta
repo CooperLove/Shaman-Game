@@ -1,0 +1,1387 @@
+fileFormatVersion: 2
+guid: 7f2bf3d2ee72e4145bb825af9d79a7e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3490661795204380134
+    second: RPG Magic Items_0
+  - first:
+      213: -2364445325632582921
+    second: RPG Magic Items_1
+  - first:
+      213: -2736429565360831642
+    second: RPG Magic Items_2
+  - first:
+      213: 1219060806815866325
+    second: RPG Magic Items_3
+  - first:
+      213: 7640321400303940035
+    second: RPG Magic Items_4
+  - first:
+      213: -5982418536530322620
+    second: RPG Magic Items_5
+  - first:
+      213: 3580817187636035290
+    second: RPG Magic Items_6
+  - first:
+      213: 5354639431743181935
+    second: RPG Magic Items_7
+  - first:
+      213: -7716788316045769142
+    second: RPG Magic Items_8
+  - first:
+      213: -1956982342140496678
+    second: RPG Magic Items_9
+  - first:
+      213: -1815272769653140441
+    second: RPG Magic Items_10
+  - first:
+      213: 165303534265810642
+    second: RPG Magic Items_11
+  - first:
+      213: -7239652595316278856
+    second: RPG Magic Items_12
+  - first:
+      213: -4646273043965796246
+    second: RPG Magic Items_13
+  - first:
+      213: -3884438579072179804
+    second: RPG Magic Items_14
+  - first:
+      213: -8926146841308438490
+    second: RPG Magic Items_15
+  - first:
+      213: 1571403873757326824
+    second: RPG Magic Items_16
+  - first:
+      213: 2651715073517729771
+    second: RPG Magic Items_17
+  - first:
+      213: 4701866031998335312
+    second: RPG Magic Items_18
+  - first:
+      213: -2616149676398940439
+    second: RPG Magic Items_19
+  - first:
+      213: -8915967694089706916
+    second: RPG Magic Items_20
+  - first:
+      213: 6786059312745493361
+    second: RPG Magic Items_21
+  - first:
+      213: -3775304998474437258
+    second: RPG Magic Items_22
+  - first:
+      213: 8949914276175118583
+    second: RPG Magic Items_23
+  - first:
+      213: 4257198341746473732
+    second: RPG Magic Items_24
+  - first:
+      213: -8016525896732774273
+    second: RPG Magic Items_25
+  - first:
+      213: 1820470690314719156
+    second: RPG Magic Items_26
+  - first:
+      213: -5845911438793177600
+    second: RPG Magic Items_27
+  - first:
+      213: -9202473644910681261
+    second: RPG Magic Items_28
+  - first:
+      213: 2107104381107310061
+    second: RPG Magic Items_29
+  - first:
+      213: -5025563745412623163
+    second: RPG Magic Items_30
+  - first:
+      213: 4613640553278216772
+    second: RPG Magic Items_31
+  - first:
+      213: 5120518773154659989
+    second: RPG Magic Items_32
+  - first:
+      213: -1686994325481152551
+    second: RPG Magic Items_33
+  - first:
+      213: -1915158729780572773
+    second: RPG Magic Items_34
+  - first:
+      213: 2076847435690786424
+    second: RPG Magic Items_35
+  - first:
+      213: 9176748970678036944
+    second: RPG Magic Items_36
+  - first:
+      213: 8830473992306465815
+    second: RPG Magic Items_37
+  - first:
+      213: 5021557837947035728
+    second: RPG Magic Items_38
+  - first:
+      213: 7794656744336310947
+    second: RPG Magic Items_39
+  - first:
+      213: -8282221656123437944
+    second: RPG Magic Items_40
+  - first:
+      213: -4432404758071842658
+    second: RPG Magic Items_41
+  - first:
+      213: -2121781409499987220
+    second: RPG Magic Items_42
+  - first:
+      213: -2513813305446660748
+    second: RPG Magic Items_43
+  - first:
+      213: -6732637021417778213
+    second: RPG Magic Items_44
+  - first:
+      213: 8650982533403747306
+    second: RPG Magic Items_45
+  - first:
+      213: -7901628085736731075
+    second: RPG Magic Items_46
+  - first:
+      213: 8355948203566053064
+    second: RPG Magic Items_47
+  - first:
+      213: -5112807578995822839
+    second: RPG Magic Items_48
+  - first:
+      213: -4230733808801997794
+    second: RPG Magic Items_49
+  - first:
+      213: -501977129261607286
+    second: RPG Magic Items_50
+  - first:
+      213: -70617741479753263
+    second: RPG Magic Items_51
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RPG Magic Items_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1833
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e53f2e8862517030800000000000000
+      internalID: 3490661795204380134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_1
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1835
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa46d2f08dcf2fd0800000000000000
+      internalID: -2364445325632582921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1837
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6638acbfecf360ad0800000000000000
+      internalID: -2736429565360831642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_3
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1836
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd5cdd4859fae010800000000000000
+      internalID: 1219060806815866325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_4
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1835
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c17eea55dfd70a60800000000000000
+      internalID: 7640321400303940035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_5
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1834
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bd568890e2afca0800000000000000
+      internalID: -5982418536530322620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_6
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1833
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adeb8aa924e91b130800000000000000
+      internalID: 3580817187636035290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_7
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 1435
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f641a5d61308f4a40800000000000000
+      internalID: 5354639431743181935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_8
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1636
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46053f69e578e490800000000000000
+      internalID: -7716788316045769142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_9
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1634
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4f009ade667d4e0800000000000000
+      internalID: -1956982342140496678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_10
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1635
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7249262a80bdec6e0800000000000000
+      internalID: -1815272769653140441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_11
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1637
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2deb70840b64b4200800000000000000
+      internalID: 165303534265810642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_12
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 1640
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b930f66256978b90800000000000000
+      internalID: -7239652595316278856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_13
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1635
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6022f4984f158fb0800000000000000
+      internalID: -4646273043965796246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_14
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 1635
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1649661b3b71ac0800000000000000
+      internalID: -3884438579072179804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_15
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1237
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620e5d69db4ff1480800000000000000
+      internalID: -8926146841308438490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_16
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1240
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed6afd5f7fbec510800000000000000
+      internalID: 1571403873757326824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_17
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1238
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7b29a5fc8ccc420800000000000000
+      internalID: 2651715073517729771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_19
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1241
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eeecf2fab191bbd0800000000000000
+      internalID: -2616149676398940439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_18
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1239
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0597cba9e32604140800000000000000
+      internalID: 4701866031998335312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_20
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1241
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52acecfe9e144480800000000000000
+      internalID: -8915967694089706916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_21
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 1240
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1733de8adfcec2e50800000000000000
+      internalID: 6786059312745493361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_22
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1239
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67dac273b1c6b9bc0800000000000000
+      internalID: -3775304998474437258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_23
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 1238
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f08d919d9b743c70800000000000000
+      internalID: 8949914276175118583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_24
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1041
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b3e22165b941b30800000000000000
+      internalID: 4257198341746473732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_25
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1039
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70f5889b249fb090800000000000000
+      internalID: -8016525896732774273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_26
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1043
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf0834927c934910800000000000000
+      internalID: 1820470690314719156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_27
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1042
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0060756f4862fdea0800000000000000
+      internalID: -5845911438793177600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_28
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1040
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353643c0afe3a4080800000000000000
+      internalID: -9202473644910681261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_29
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 1043
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded029c4540fd3d10800000000000000
+      internalID: 2107104381107310061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_30
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1042
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4599e666c914ab0800000000000000
+      internalID: -5025563745412623163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_31
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1042
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a1c7b93a1f60040800000000000000
+      internalID: 4613640553278216772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_32
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 1041
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e3a9bc1bcbf0740800000000000000
+      internalID: 5120518773154659989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_33
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1040
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df989b59979698e0800000000000000
+      internalID: -1686994325481152551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_34
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 841
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9dc0fe384dfb65e0800000000000000
+      internalID: -1915158729780572773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_35
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 843
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87eb7093db172dc10800000000000000
+      internalID: 2076847435690786424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_36
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 843
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9223e719c5a5f70800000000000000
+      internalID: 9176748970678036944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_37
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 842
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c90c56f452c8a70800000000000000
+      internalID: 8830473992306465815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_38
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 840
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05069ed8f3820b540800000000000000
+      internalID: 5021557837947035728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_39
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 841
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2c448d20f2c2c60800000000000000
+      internalID: 7794656744336310947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_40
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 843
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c07bbe843af0d80800000000000000
+      internalID: -8282221656123437944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_41
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 842
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98606e3b5fec72c0800000000000000
+      internalID: -4432404758071842658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_42
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 842
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2c9bbbc0bed82e0800000000000000
+      internalID: -2121781409499987220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_43
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 843
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47583311e142d1dd0800000000000000
+      internalID: -2513813305446660748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_44
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 48
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3dfb0dc4ed092a0800000000000000
+      internalID: -6732637021417778213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_45
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 47
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3a3ad77c67e0870800000000000000
+      internalID: 8650982533403747306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_46
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 47
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e8962ee17c75290800000000000000
+      internalID: -7901628085736731075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_47
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 48
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c63e139e9a46f370800000000000000
+      internalID: 8355948203566053064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_48
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 49
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f67018898ab09b0800000000000000
+      internalID: -5112807578995822839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_49
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 48
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c1f1b240a6945c0800000000000000
+      internalID: -4230733808801997794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_50
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 45
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86ddf4e57e9809f0800000000000000
+      internalID: -501977129261607286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Magic Items_51
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 47
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9424cc98d150ff0800000000000000
+      internalID: -70617741479753263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 517c803c35d8eb24baf5df391f63a69c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

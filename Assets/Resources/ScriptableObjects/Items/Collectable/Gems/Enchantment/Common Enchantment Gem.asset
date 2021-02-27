@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 559242793490abd46a13e921b8899ff6, type: 3}
+  m_Name: Common Enchantment Gem
+  m_EditorClassIdentifier: 
+  _sprite: {fileID: 4144850761727270321, guid: 0853781b4bd9f804cb95936995057ba8, type: 3}
+  _name: Common Enchantment Gem
+  _rarity: 1
+  itemType: 8

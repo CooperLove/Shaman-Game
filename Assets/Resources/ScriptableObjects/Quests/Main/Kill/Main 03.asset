@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d630fe7531effc4789d2e5752c8fcb3, type: 3}
+  m_Name: Main 03
+  m_EditorClassIdentifier: 
+  id: 0
+  questName: Main Kill Quest 03
+  description: 
+  isPlayerQuest: 1
+  isMainQuest: 1
+  needsToBeAcceptedByPlayer: 0
+  needsToBeDelivered: 1
+  completeOnTheSameNPC: 1
+  necessaryLevel: 0
+  goldGiven: 0
+  experience: 0
+  reward: {fileID: 11400000, guid: 75886d4e04eb0f1449b55765a10d20d5, type: 2}
+  isInProgress: 0
+  canBeCompleted: 0
+  isCompleted: 0
+  previousQuest: {fileID: 11400000, guid: 2870eefdb5b81d6438defd364e09e9f8, type: 2}
+  nextQuest: {fileID: 11400000, guid: 49328152081eeb0419066dcb3c7c839c, type: 2}
+  enemies:
+  - goal: {fileID: 11400000, guid: e43dd6d78d8616e4a8505f8b36391b4f, type: 2}
+    quantity: 3
+    quantityToGet: 3
+  - goal: {fileID: 11400000, guid: 10f77192b6e3813428c8d748b4339d8c, type: 2}
+    quantity: 3
+    quantityToGet: 3

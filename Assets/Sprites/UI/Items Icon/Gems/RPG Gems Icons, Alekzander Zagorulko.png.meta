@@ -1,0 +1,2539 @@
+fileFormatVersion: 2
+guid: 0853781b4bd9f804cb95936995057ba8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3617159921727679189
+    second: RPG Gems Icons, Alekzander Zagorulko_0
+  - first:
+      213: -4502452404338349876
+    second: RPG Gems Icons, Alekzander Zagorulko_1
+  - first:
+      213: 5365572263421552801
+    second: RPG Gems Icons, Alekzander Zagorulko_2
+  - first:
+      213: 8171623143175159636
+    second: RPG Gems Icons, Alekzander Zagorulko_3
+  - first:
+      213: -8953835175461561655
+    second: RPG Gems Icons, Alekzander Zagorulko_4
+  - first:
+      213: -8597378554397157528
+    second: RPG Gems Icons, Alekzander Zagorulko_5
+  - first:
+      213: 4887078846960417331
+    second: RPG Gems Icons, Alekzander Zagorulko_6
+  - first:
+      213: -1492209366026705727
+    second: RPG Gems Icons, Alekzander Zagorulko_7
+  - first:
+      213: 5747177964943780054
+    second: RPG Gems Icons, Alekzander Zagorulko_8
+  - first:
+      213: -6492752115091892839
+    second: RPG Gems Icons, Alekzander Zagorulko_9
+  - first:
+      213: 922349363637574753
+    second: RPG Gems Icons, Alekzander Zagorulko_10
+  - first:
+      213: 4352374554864289273
+    second: RPG Gems Icons, Alekzander Zagorulko_11
+  - first:
+      213: 5015667338469009957
+    second: RPG Gems Icons, Alekzander Zagorulko_12
+  - first:
+      213: 2236802172426709844
+    second: RPG Gems Icons, Alekzander Zagorulko_13
+  - first:
+      213: -2919331473659072795
+    second: RPG Gems Icons, Alekzander Zagorulko_14
+  - first:
+      213: -7489755216020173
+    second: RPG Gems Icons, Alekzander Zagorulko_15
+  - first:
+      213: 3393364799270185600
+    second: RPG Gems Icons, Alekzander Zagorulko_16
+  - first:
+      213: 5125460380639955001
+    second: RPG Gems Icons, Alekzander Zagorulko_17
+  - first:
+      213: -1773410591815474707
+    second: RPG Gems Icons, Alekzander Zagorulko_18
+  - first:
+      213: 5252050492450558823
+    second: RPG Gems Icons, Alekzander Zagorulko_19
+  - first:
+      213: -7350325692752583631
+    second: RPG Gems Icons, Alekzander Zagorulko_20
+  - first:
+      213: -4961283008218932284
+    second: RPG Gems Icons, Alekzander Zagorulko_21
+  - first:
+      213: 4898667952060684097
+    second: RPG Gems Icons, Alekzander Zagorulko_22
+  - first:
+      213: 2466080470092620722
+    second: RPG Gems Icons, Alekzander Zagorulko_23
+  - first:
+      213: 4307448974915581034
+    second: RPG Gems Icons, Alekzander Zagorulko_24
+  - first:
+      213: -2145284333789166980
+    second: RPG Gems Icons, Alekzander Zagorulko_25
+  - first:
+      213: 9012836676803978085
+    second: RPG Gems Icons, Alekzander Zagorulko_26
+  - first:
+      213: -1064658919720867379
+    second: RPG Gems Icons, Alekzander Zagorulko_27
+  - first:
+      213: -8699302169845317112
+    second: RPG Gems Icons, Alekzander Zagorulko_28
+  - first:
+      213: -8141612580628412258
+    second: RPG Gems Icons, Alekzander Zagorulko_29
+  - first:
+      213: -9201709015004777748
+    second: RPG Gems Icons, Alekzander Zagorulko_30
+  - first:
+      213: -1557650945699043587
+    second: RPG Gems Icons, Alekzander Zagorulko_31
+  - first:
+      213: -5443908645804501113
+    second: RPG Gems Icons, Alekzander Zagorulko_32
+  - first:
+      213: -8683086757435100348
+    second: RPG Gems Icons, Alekzander Zagorulko_33
+  - first:
+      213: 287073715436575307
+    second: RPG Gems Icons, Alekzander Zagorulko_34
+  - first:
+      213: 5290208369389753710
+    second: RPG Gems Icons, Alekzander Zagorulko_35
+  - first:
+      213: -8245549639316783418
+    second: RPG Gems Icons, Alekzander Zagorulko_36
+  - first:
+      213: 5122060284007703018
+    second: RPG Gems Icons, Alekzander Zagorulko_37
+  - first:
+      213: -8572000482932522965
+    second: RPG Gems Icons, Alekzander Zagorulko_38
+  - first:
+      213: -7669313085896052041
+    second: RPG Gems Icons, Alekzander Zagorulko_39
+  - first:
+      213: 5107786659861039950
+    second: RPG Gems Icons, Alekzander Zagorulko_40
+  - first:
+      213: -6932005713610155026
+    second: RPG Gems Icons, Alekzander Zagorulko_41
+  - first:
+      213: -7009434416186672910
+    second: RPG Gems Icons, Alekzander Zagorulko_42
+  - first:
+      213: 4584208484720446270
+    second: RPG Gems Icons, Alekzander Zagorulko_43
+  - first:
+      213: -6248902692221583647
+    second: RPG Gems Icons, Alekzander Zagorulko_44
+  - first:
+      213: 5885649359572118404
+    second: RPG Gems Icons, Alekzander Zagorulko_45
+  - first:
+      213: 5121952868025887298
+    second: RPG Gems Icons, Alekzander Zagorulko_46
+  - first:
+      213: -5277719073183875036
+    second: RPG Gems Icons, Alekzander Zagorulko_47
+  - first:
+      213: -877371897234600228
+    second: RPG Gems Icons, Alekzander Zagorulko_48
+  - first:
+      213: 6977947343711904598
+    second: RPG Gems Icons, Alekzander Zagorulko_49
+  - first:
+      213: -8835574738435954545
+    second: RPG Gems Icons, Alekzander Zagorulko_50
+  - first:
+      213: 7851014145116278160
+    second: RPG Gems Icons, Alekzander Zagorulko_51
+  - first:
+      213: -4600199204477188913
+    second: RPG Gems Icons, Alekzander Zagorulko_52
+  - first:
+      213: -1758961850820741809
+    second: RPG Gems Icons, Alekzander Zagorulko_53
+  - first:
+      213: 5301290681138303284
+    second: RPG Gems Icons, Alekzander Zagorulko_54
+  - first:
+      213: 6124464334210535597
+    second: RPG Gems Icons, Alekzander Zagorulko_55
+  - first:
+      213: -8516688347096586494
+    second: RPG Gems Icons, Alekzander Zagorulko_56
+  - first:
+      213: 3619535444572404334
+    second: RPG Gems Icons, Alekzander Zagorulko_57
+  - first:
+      213: -1511719081965967698
+    second: RPG Gems Icons, Alekzander Zagorulko_58
+  - first:
+      213: 6083632592502914880
+    second: RPG Gems Icons, Alekzander Zagorulko_59
+  - first:
+      213: 8833062072467351028
+    second: RPG Gems Icons, Alekzander Zagorulko_60
+  - first:
+      213: -6107232609789331053
+    second: RPG Gems Icons, Alekzander Zagorulko_61
+  - first:
+      213: 5173537338391753553
+    second: RPG Gems Icons, Alekzander Zagorulko_62
+  - first:
+      213: 4531667206550918493
+    second: RPG Gems Icons, Alekzander Zagorulko_63
+  - first:
+      213: 7609815160016523066
+    second: RPG Gems Icons, Alekzander Zagorulko_64
+  - first:
+      213: -4964481839096139648
+    second: RPG Gems Icons, Alekzander Zagorulko_65
+  - first:
+      213: 7725880573051318787
+    second: RPG Gems Icons, Alekzander Zagorulko_66
+  - first:
+      213: 3429774243709002905
+    second: RPG Gems Icons, Alekzander Zagorulko_67
+  - first:
+      213: -7092439443610293688
+    second: RPG Gems Icons, Alekzander Zagorulko_68
+  - first:
+      213: -1226884489466416994
+    second: RPG Gems Icons, Alekzander Zagorulko_69
+  - first:
+      213: 4144850761727270321
+    second: RPG Gems Icons, Alekzander Zagorulko_70
+  - first:
+      213: -8771717912047960821
+    second: RPG Gems Icons, Alekzander Zagorulko_71
+  - first:
+      213: -4636455585539040995
+    second: RPG Gems Icons, Alekzander Zagorulko_72
+  - first:
+      213: -6973849375456885709
+    second: RPG Gems Icons, Alekzander Zagorulko_73
+  - first:
+      213: 5545213071178541207
+    second: RPG Gems Icons, Alekzander Zagorulko_74
+  - first:
+      213: 7391756915181479526
+    second: RPG Gems Icons, Alekzander Zagorulko_75
+  - first:
+      213: 4738076936609689772
+    second: RPG Gems Icons, Alekzander Zagorulko_76
+  - first:
+      213: -6969463779106059698
+    second: RPG Gems Icons, Alekzander Zagorulko_77
+  - first:
+      213: -1736790949582510652
+    second: RPG Gems Icons, Alekzander Zagorulko_78
+  - first:
+      213: -5189270957786311183
+    second: RPG Gems Icons, Alekzander Zagorulko_79
+  - first:
+      213: -1422716808101520958
+    second: RPG Gems Icons, Alekzander Zagorulko_80
+  - first:
+      213: -2136682591829530144
+    second: RPG Gems Icons, Alekzander Zagorulko_81
+  - first:
+      213: -6109015669418919828
+    second: RPG Gems Icons, Alekzander Zagorulko_82
+  - first:
+      213: 2865518728959329269
+    second: RPG Gems Icons, Alekzander Zagorulko_83
+  - first:
+      213: -6388608100117716672
+    second: RPG Gems Icons, Alekzander Zagorulko_84
+  - first:
+      213: 3933360220437574947
+    second: RPG Gems Icons, Alekzander Zagorulko_85
+  - first:
+      213: -338764985573277395
+    second: RPG Gems Icons, Alekzander Zagorulko_86
+  - first:
+      213: 1293505582853849548
+    second: RPG Gems Icons, Alekzander Zagorulko_87
+  - first:
+      213: 6911515265495140364
+    second: RPG Gems Icons, Alekzander Zagorulko_88
+  - first:
+      213: 1589121931867329899
+    second: RPG Gems Icons, Alekzander Zagorulko_89
+  - first:
+      213: -4955510572949465579
+    second: RPG Gems Icons, Alekzander Zagorulko_90
+  - first:
+      213: 8982694468419307991
+    second: RPG Gems Icons, Alekzander Zagorulko_91
+  - first:
+      213: 1986581288322659895
+    second: RPG Gems Icons, Alekzander Zagorulko_92
+  - first:
+      213: 1583048035418026036
+    second: RPG Gems Icons, Alekzander Zagorulko_93
+  - first:
+      213: -1722185935152807646
+    second: RPG Gems Icons, Alekzander Zagorulko_94
+  - first:
+      213: -1717520838638497074
+    second: RPG Gems Icons, Alekzander Zagorulko_95
+  - first:
+      213: -6704576646304826227
+    second: RPG Gems Icons, Alekzander Zagorulko_96
+  - first:
+      213: -878072884874072409
+    second: RPG Gems Icons, Alekzander Zagorulko_97
+  - first:
+      213: 6739151198371857428
+    second: RPG Gems Icons, Alekzander Zagorulko_98
+  - first:
+      213: 2627200519685367632
+    second: RPG Gems Icons, Alekzander Zagorulko_99
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 911
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2554a937344dcdc0800000000000000
+      internalID: -3617159921727679189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 912
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc82f4da4631481c0800000000000000
+      internalID: -4502452404338349876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 913
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a82ee9ab87567a40800000000000000
+      internalID: 5365572263421552801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_3
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 911
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ff05f14ff676170800000000000000
+      internalID: 8171623143175159636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_4
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 912
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca573de8569db380800000000000000
+      internalID: -8953835175461561655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_5
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 914
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867989171c9ffa880800000000000000
+      internalID: -8597378554397157528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_6
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 913
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ab666815462d340800000000000000
+      internalID: 4887078846960417331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 911
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4a777dc7b9a4be0800000000000000
+      internalID: -1492209366026705727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_8
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 913
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d82d65c8e312cf40800000000000000
+      internalID: 5747177964943780054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_9
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 913
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9951845f95c15e5a0800000000000000
+      internalID: -6492752115091892839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 816
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cdc620cd7dccc00800000000000000
+      internalID: 922349363637574753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_11
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 815
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f58228099db66c30800000000000000
+      internalID: 4352374554864289273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_12
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 813
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a69f4ceda3b9540800000000000000
+      internalID: 5015667338469009957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_13
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 814
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45be05889b7ba0f10800000000000000
+      internalID: 2236802172426709844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_14
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 813
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eeeee2fd737c77d0800000000000000
+      internalID: -2919331473659072795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_15
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 814
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33df4e87b1465eff0800000000000000
+      internalID: -7489755216020173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_16
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 815
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a60dd5e47a71f20800000000000000
+      internalID: 3393364799270185600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_17
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 814
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93802627f0b412740800000000000000
+      internalID: 5125460380639955001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_18
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 816
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de16ce176749367e0800000000000000
+      internalID: -1773410591815474707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_19
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 815
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7635ee8a81803e840800000000000000
+      internalID: 5252050492450558823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_20
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 718
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1342e04e9b56ef990800000000000000
+      internalID: -7350325692752583631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 718
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbdde8d36bf52bb0800000000000000
+      internalID: -4961283008218932284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_22
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 719
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147da235c809bf340800000000000000
+      internalID: 4898667952060684097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_23
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 718
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b326672f17493220800000000000000
+      internalID: 2466080470092620722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_24
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 717
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64b6f5550227cb30800000000000000
+      internalID: 4307448974915581034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_25
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 718
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72494eb34b6a32e0800000000000000
+      internalID: -2145284333789166980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_26
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 718
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563638b9437041d70800000000000000
+      internalID: 9012836676803978085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_27
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 718
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc926137a529931f0800000000000000
+      internalID: -1064658919720867379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_28
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 718
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802c59474ced54780800000000000000
+      internalID: -8699302169845317112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_29
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 717
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98cac87e7e230f80800000000000000
+      internalID: -8141612580628412258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_30
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 621
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce271225766fc4080800000000000000
+      internalID: -9201709015004777748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_31
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 622
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6ae89b7bc126ae0800000000000000
+      internalID: -1557650945699043587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_32
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 619
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78715210ee95374b0800000000000000
+      internalID: -5443908645804501113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_33
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 621
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443be2d599a7f7780800000000000000
+      internalID: -8683086757435100348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_34
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 621
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ad2f0f504ebf300800000000000000
+      internalID: 287073715436575307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_35
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 621
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e655645bb789a6940800000000000000
+      internalID: 5290208369389753710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_36
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 621
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce3ca23a4ce19d80800000000000000
+      internalID: -8245549639316783418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_37
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 620
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae16a62c0b6351740800000000000000
+      internalID: 5122060284007703018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_38
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 621
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2084582af22a0980800000000000000
+      internalID: -8572000482932522965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_39
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 621
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b239e3d160219590800000000000000
+      internalID: -7669313085896052041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_40
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 523
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b0f79a7e082e640800000000000000
+      internalID: 5107786659861039950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_41
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 522
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebd943e7819ccf90800000000000000
+      internalID: -6932005713610155026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_42
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 523
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8bbca398c79be90800000000000000
+      internalID: -7009434416186672910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_43
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 523
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b081424516e9f30800000000000000
+      internalID: 4584208484720446270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_44
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 523
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee762a0c107749a0800000000000000
+      internalID: -6248902692221583647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_45
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 523
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b2dc5b8e60ea150800000000000000
+      internalID: 5885649359572118404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_46
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 523
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ae9f60ff4d41740800000000000000
+      internalID: 5121952868025887298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_47
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 523
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420429a2776c1c6b0800000000000000
+      internalID: -5277719073183875036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_48
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 522
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdecb6178e2f2d3f0800000000000000
+      internalID: -877371897234600228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_49
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 523
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653245b6326a6d060800000000000000
+      internalID: 6977947343711904598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_50
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 427
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f882c19969bb16580800000000000000
+      internalID: -8835574738435954545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_51
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 426
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d093eb4c764fc60800000000000000
+      internalID: 7851014145116278160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_52
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 425
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc44a19423fc820c0800000000000000
+      internalID: -4600199204477188913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_53
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 426
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45bd5c1489e697e0800000000000000
+      internalID: -1758961850820741809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_54
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 426
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431565c79c7f19940800000000000000
+      internalID: 5301290681138303284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_55
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 426
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da01b28fcd77ef450800000000000000
+      internalID: 6124464334210535597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_56
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 427
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20769985215aec980800000000000000
+      internalID: -8516688347096586494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_57
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 425
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a7ca94f4c2b3230800000000000000
+      internalID: 3619535444572404334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_58
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 427
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea62d3f118b450be0800000000000000
+      internalID: -1511719081965967698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_59
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 427
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fff144c976d6450800000000000000
+      internalID: 6083632592502914880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_60
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 329
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f56464c727559a70800000000000000
+      internalID: 8833062072467351028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_61
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 330
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39933d48c40ce3ba0800000000000000
+      internalID: -6107232609789331053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_62
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 330
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1537f077cc81cc740800000000000000
+      internalID: 5173537338391753553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_63
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 330
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5511c68057b3ee30800000000000000
+      internalID: 4531667206550918493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_64
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 330
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fca2bc19e7b9960800000000000000
+      internalID: 7609815160016523066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_65
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 329
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080fbcef11e9a1bb0800000000000000
+      internalID: -4964481839096139648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_66
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 330
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302b0dd9277d73b60800000000000000
+      internalID: 7725880573051318787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_67
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 330
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9942f00c081099f20800000000000000
+      internalID: 3429774243709002905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_68
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 329
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84aa3a447e7929d90800000000000000
+      internalID: -7092439443610293688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_69
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 328
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90fae0ae0b39fee0800000000000000
+      internalID: -1226884489466416994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_70
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 233
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdd2c3bec7758930800000000000000
+      internalID: 4144850761727270321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_71
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 232
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d33769809944680800000000000000
+      internalID: -8771717912047960821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_72
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 231
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19d11fb53008afb0800000000000000
+      internalID: -4636455585539040995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_73
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 233
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33400da21f8e73f90800000000000000
+      internalID: -6973849375456885709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_74
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 231
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798237f88ed84fc40800000000000000
+      internalID: 5545213071178541207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_75
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 231
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666ed6b40cbc49660800000000000000
+      internalID: 7391756915181479526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_76
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 233
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca07715ded701c140800000000000000
+      internalID: 4738076936609689772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_77
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 232
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a8e636e9d774f90800000000000000
+      internalID: -6969463779106059698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_78
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 233
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5650155dda5e7e0800000000000000
+      internalID: -1736790949582510652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_79
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 232
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f555edce810cf7b0800000000000000
+      internalID: -5189270957786311183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_80
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 136
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c99125d99e714ce0800000000000000
+      internalID: -1422716808101520958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_81
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 136
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e96d3cd08af852e0800000000000000
+      internalID: -2136682591829530144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_82
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 136
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c687df89d9a683ba0800000000000000
+      internalID: -6109015669418919828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_83
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 135
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f389d01a1e54c720800000000000000
+      internalID: 2865518728959329269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_84
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 136
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041ec4ff7ca1757a0800000000000000
+      internalID: -6388608100117716672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_85
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 135
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32575d8d74a169630800000000000000
+      internalID: 3933360220437574947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_86
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 136
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21809c5a077c4bf0800000000000000
+      internalID: -338764985573277395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_87
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 136
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc10dfc697473f110800000000000000
+      internalID: 1293505582853849548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_88
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 135
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c080783e382aaef50800000000000000
+      internalID: 6911515265495140364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_89
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 136
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b651cbd3af1bd0610800000000000000
+      internalID: 1589121931867329899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_90
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 39
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51697aaa36d7a3bb0800000000000000
+      internalID: -4955510572949465579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_91
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 39
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9cff3d601f8ac70800000000000000
+      internalID: 8982694468419307991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_92
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 38
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736f8e70821c19b10800000000000000
+      internalID: 1986581288322659895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_93
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 38
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430b8750dcd18f510800000000000000
+      internalID: 1583048035418026036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_94
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 38
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2210b0a34019918e0800000000000000
+      internalID: -1722185935152807646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_95
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 39
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec21f96a5e32a28e0800000000000000
+      internalID: -1717520838638497074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_96
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 39
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cfe93001f84f2a0800000000000000
+      internalID: -6704576646304826227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_97
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 39
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aead2a0d5570d3f0800000000000000
+      internalID: -878072884874072409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_98
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 39
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4144a923f46468d50800000000000000
+      internalID: 6739151198371857428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Gems Icons, Alekzander Zagorulko_99
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 39
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057619104f0b57420800000000000000
+      internalID: 2627200519685367632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

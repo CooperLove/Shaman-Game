@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Scrolling Texture 1
+  m_Shader: {fileID: -6465566751694194690, guid: a722a3c5f3a5ab94cb04be3553f6a7e4,
+    type: 3}
+  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_11702754:
+        m_Texture: {fileID: 2800000, guid: 190fd5ae6f8a78e4e8a4ab99c3518db8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_5BBFB23C:
+        m_Texture: {fileID: 2800000, guid: 2c8165580195f4e44ace1a6b6a6e534a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: c4f655f5d01f55547a23a546b58afd04, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - Color_322FD56F: {r: 1, g: 1, b: 1, a: 1}
+    - Color_A8DF737D: {r: 2.5892231, g: 0.57402587, b: 0.57402587, a: 1}
+    - Color_F99C2C8: {r: 8.122627, g: 8.122627, b: 8.122627, a: 1}
+    - Vector2_43E72A82: {r: 2, g: 0, b: 0, a: 0}
+    - Vector2_F1204628: {r: 0.3, g: 0.3, b: 0, a: 0}

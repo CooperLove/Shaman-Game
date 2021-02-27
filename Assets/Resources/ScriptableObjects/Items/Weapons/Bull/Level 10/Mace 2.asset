@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d25a69a5074276c4db000ecbf2591037, type: 3}
+  m_Name: Mace 2
+  m_EditorClassIdentifier: 
+  _inventorySprite: {fileID: 0}
+  _equippedSprite: {fileID: 0}
+  _name: Mace 0
+  itemType: 1
+  handler: {fileID: 0}
+  _necessaryLevel: 0
+  _necessaryForce: 0
+  _necessaryInt: 0
+  _necessaryDex: 0
+  _necessaryCon: 0
+  _necessaryVigor: 0
+  _phrase: 
+  _fDamage: 1
+  _mDamage: 1
+  _armorPenetration: 1
+  _magicPenetration: 1
+  _type: 1

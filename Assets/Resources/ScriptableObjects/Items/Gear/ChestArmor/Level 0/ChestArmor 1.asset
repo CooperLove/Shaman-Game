@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e111762fe0f34754a9e9440f18a808c1, type: 3}
+  m_Name: ChestArmor 1
+  m_EditorClassIdentifier: 
+  _sprite: {fileID: 7211446442639898396, guid: 7d2b51511109892458fbbedfc3a321c0, type: 3}
+  _name: A Legendary Chest
+  _rarity: 4
+  itemType: 4
+  handler: {fileID: 0}
+  _necessaryLevel: 1
+  _necessaryForce: 1
+  _necessaryInt: 1
+  _necessaryDex: 1
+  _necessaryCon: 1
+  _necessaryVigor: 1
+  _phrase: "\u201CWe\u2019re going to make it happen. As God is my bloody witness,
+    I\u2019m hell-bent on making it workddddd.\u201D"
+  armor: 1
+  magicResistance: 1
+  health: 1
+  skillDamage: 8

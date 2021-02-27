@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be0fa236ff7831740b025b67749be3a6, type: 3}
+  m_Name: Helmet 0
+  m_EditorClassIdentifier: 
+  _sprite: {fileID: -4819883160339960943, guid: 7d2b51511109892458fbbedfc3a321c0,
+    type: 3}
+  _name: A Helmet 0
+  _rarity: 5
+  itemType: 3
+  _necessaryLevel: 1
+  _necessaryForce: 2
+  _necessaryInt: 3
+  _necessaryDex: 4
+  _necessaryCon: 5
+  _necessaryVigor: 6
+  _phrase: "\u201CWe\u2019re going to make it happen. As God is my bloody witness,
+    I\u2019m hell-bent on making it work.\u201D"
+  armor: 25
+  magicResistance: 12
+  health: 15

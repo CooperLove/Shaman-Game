@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5acbe205a6987a41bcf479d4c160e31, type: 3}
+  m_Name: Enemy4
+  m_EditorClassIdentifier: 
+  objectName: Enemy 04
+  max_HP: 100
+  max_MP: 100
+  max_SP: 100
+  hp: 26.7
+  mana: 100
+  sp: 100
+  minPhysicalDamage: 0
+  maxPhysicalDamage: 0
+  minMagicDamage: 0
+  maxMagicDamage: 0
+  armor: 10
+  magicResistance: 7
+  bleedingResistance: 0
+  poisonResistance: 0
+  level: 1
+  xpGiven: 45
+  velocity: 15
+  questsImIn:
+  - {fileID: 11400000, guid: 6a7effc8607eaf84798d1e96b32acfaf, type: 2}
+  - {fileID: 11400000, guid: 3aa89741af90268409e2d1a71a42e771, type: 2}

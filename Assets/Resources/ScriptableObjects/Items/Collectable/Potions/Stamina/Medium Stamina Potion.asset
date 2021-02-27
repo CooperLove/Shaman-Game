@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb95983527f462345b4cf69b93cd1e83, type: 3}
+  m_Name: Medium Stamina Potion
+  m_EditorClassIdentifier: 
+  _sprite: {fileID: 2813998386211783405, guid: c243b7c52761864489f2a71d23f6a1d0, type: 3}
+  _name: Medium Stamina Potion
+  itemType: 0
+  staminaAmount: 25

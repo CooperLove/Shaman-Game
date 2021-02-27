@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc7ecf2ebb57253418f938810c169cf2, type: 3}
+  m_Name: Player
+  m_EditorClassIdentifier: 
+  objectName: Player
+  position: {x: -190.17905, y: 125.18498, z: 0}
+  level: 41
+  max_HP: 100039
+  max_MP: 100009
+  max_SP: 100029
+  health: 100039
+  mana: 100009
+  stamina: 96629
+  minPhysicalDamage: 115
+  maxPhysicalDamage: 200
+  minMagicDamage: 89
+  maxMagicDamage: 128
+  armor: 128
+  magicResistance: 94
+  bleedingResistance: 10
+  poisonResistance: 15
+  experience: 765
+  nextLevelEXP: 822
+  _force: 68
+  _dexterity: 99
+  _intelligence: 35
+  _constitution: 14
+  _vigor: 12
+  _statsPoints: 778
+  _activeSkillPoints: 739
+  _passiveSkillPoints: 737
+  bonus_hp: 0
+  bonus_mp: 0
+  bonus_sp: 0
+  bonus_percentage_hp: 0
+  bonus_percentage_mp: 0
+  bonus_percentage_sp: 0
+  percentage_hp: 0
+  percentage_mp: 0
+  percentage_sp: 0
+  bonus_force: 0
+  bonus_dexterity: 0
+  bonus_intelligence: 0
+  bonus_constitution: 0
+  bonus_vigor: 0
+  bonus_armor: 1
+  bonus_magicResistance: 11.54
+  bonus_moveSpeed: 0
+  bonus_skillDamage: 8
+  bonus_physicalDamage: 0
+  bonus_magicDamage: 0
+  manaRegen: 4000.5
+  hpRegen: 5000.9
+  spRegen: 500.7
+  critChance: 3
+  critDmg: 15.47
+  attackSpeed: 37.82
+  fireResist: 2.6
+  waterResist: 2.6
+  earthResist: 2.6
+  windResist: 2.6
+  darkResist: 2.6
+  basicAttackDamagekMultiplier: 0.47829694
+  skillDamage: 2
+  damageReduction: 1
+  shield: 0
+  moveSpeed: 100
+  armorPenetration: 0
+  magicPenetration: 0
+  cdr: 0
+  lifesteal: 0
+  manaCostReduction: 0
+  ccDurationReduction: 90
+  potionEffectiveness: 0
+  potionDuration: 0
+  buffDuration: 0
+  healEffectiveness: 0
+  bleedingDamage: 0
+  poisonDamage: 0
+  gold: 10.300003
+  autoAttack: {fileID: 11400000, guid: f57b394ad7cf7334bb3fcec4b3bef30e, type: 2}
+  passive: {fileID: 11400000, guid: 8da687b785397bb4bb5fdb1cc9c9f5df, type: 2}
+  skill01: {fileID: 0}
+  skill02: {fileID: 0}
+  skill03: {fileID: 0}
+  skill04: {fileID: 0}
+  learnedSkills:
+  - {fileID: 11400000, guid: db56433983a85ed4db49741881059fc8, type: 2}
+  - {fileID: 11400000, guid: b31fbc9395518c445a97a2fb5387c04a, type: 2}
+  - {fileID: 11400000, guid: 6eb7a8e11daf53d469958eb0cb6dc163, type: 2}
+  - {fileID: 11400000, guid: 2acf600ad6aec7f4b9c2e15c5218566c, type: 2}
+  - {fileID: 11400000, guid: b987b903291393f44a67e626b74050d4, type: 2}
+  - {fileID: 11400000, guid: 4211e9fdf4f6f7b4c9292dea2a0b1eec, type: 2}
+  - {fileID: 11400000, guid: a9920468fe9f65e43bc2445e4fe16eaa, type: 2}
+  - {fileID: 11400000, guid: 8b9ff3b2f9a255944a3cb24445257907, type: 2}
+  - {fileID: 11400000, guid: 63f70b4e68cd30a44b46ded02d9fc9fe, type: 2}
+  - {fileID: 11400000, guid: d535eb0229375f94883a3097ec6fdb8c, type: 2}
+  - {fileID: 11400000, guid: 4c56de9f04bb1304194005a3403bb382, type: 2}
+  - {fileID: 11400000, guid: f23cb701d7b7bb344a1418777388d3d3, type: 2}
+  - {fileID: 11400000, guid: 8e5a3251080f102469dfd4f0f0fed94a, type: 2}
+  - {fileID: 11400000, guid: a058ef9e0dfe8184da5b9c6e733a9cf8, type: 2}
+  weapon: {fileID: 0}
+  helmet: {fileID: 11400000, guid: bebd231ef89dada4db18ff67454378be, type: 2}
+  chestArmor: {fileID: 11400000, guid: 977450372ef26aa42bd49a04fe65a95d, type: 2}
+  gloves: {fileID: 0}
+  leggins: {fileID: 0}
+  boots: {fileID: 0}
+  leftRing: {fileID: 0}
+  rightRing: {fileID: 0}
+  amullet: {fileID: 0}
+  ornament: {fileID: 0}
+  animalPath: {fileID: 11400000, guid: 60afd65f7832d40459feb1a83195f402, type: 2}
+  chargeAmount: 5

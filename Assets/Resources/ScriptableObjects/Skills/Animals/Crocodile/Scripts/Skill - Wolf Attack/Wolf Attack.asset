@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1b588100349f7b4aa76bc413d45e592, type: 3}
+  m_Name: Wolf Attack
+  m_EditorClassIdentifier: 
+  description: 'Wolf Attack Wolf Attack Wolf Attack Wolf Attack Wolf Attack Wolf
+    Attack Wolf Attack Wolf Attack Wolf Attack Wolf Attack Wolf Attack Wolf Attack
+    Wolf Attack Wolf Attack Wolf Attack Wolf Attack Wolf Attack Wolf Attack Wolf
+    Attack Wolf Attack '
+  pointsPerLevel: 0
+  currentLevel: 0
+  maxLevel: 0
+  learned: 0
+  sprite: {fileID: 0}
+  skillName: Wolf Attack
+  levelToLearn: 0
+  levelIncrement: 0
+  cooldown: 3
+  mpCost: 50
+  spCost: 0
+  costIncrement: 0
+  gainOfEnergyPerUse: 0
+  preferredKeys: 

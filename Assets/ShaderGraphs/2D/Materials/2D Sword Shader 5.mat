@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 2D Sword Shader 5
+  m_Shader: {fileID: -6465566751694194690, guid: 19a5911d7e3bc3549af124c6940805f4,
+    type: 3}
+  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_189C0819:
+        m_Texture: {fileID: 2800000, guid: 535949cac8c448146b18765ae56c9140, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_ED7981E6:
+        m_Texture: {fileID: 2800000, guid: ab4b112f31e0b1b469e1901c1fbc9357, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 74cd6d48208ddd34bbc2f180d73b4223, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_69018520: 1
+    - Vector1_CA4ED84D: 0.025
+    m_Colors:
+    - Color_5F981835: {r: 0.38810313, g: 4.96772, b: 7.41277, a: 1}
+    - Color_78940F01: {r: 0, g: 0.33275613, b: 1.9965369, a: 1}
+    - Vector2_AAAE31E7: {r: 0, g: 0.15, b: 0, a: 0}

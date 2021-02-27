@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5405d9f758501f94889e9140952e6674, type: 3}
+  m_Name: Geiser
+  m_EditorClassIdentifier: 
+  description: 'Geiser Geiser Geiser Geiser Geiser Geiser Geiser Geiser Geiser Geiser
+    Geiser Geiser Geiser '
+  pointsPerLevel: 0
+  currentLevel: 0
+  maxLevel: 5
+  learned: 0
+  sprite: {fileID: 0}
+  skillName: Geyser
+  levelToLearn: 0
+  levelIncrement: 0
+  cooldown: 3
+  mpCost: 0
+  spCost: 0
+  costIncrement: 0
+  gainOfEnergyPerUse: 0
+  preferredKeys: 
+  damage: 35
+  damagePerLevel: 70

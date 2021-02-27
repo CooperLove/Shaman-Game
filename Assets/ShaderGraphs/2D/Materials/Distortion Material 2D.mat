@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Distortion Material 2D
+  m_Shader: {fileID: -6465566751694194690, guid: f90bea5d7c56c4345a62277bb8ed821e,
+    type: 3}
+  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_9E155937:
+        m_Texture: {fileID: 2800000, guid: 1f89fed00b6bc904c861ab847a811cb8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_BC52A0C9:
+        m_Texture: {fileID: 2800000, guid: 46d59dc6b163d4e4c85574dbc2e7c599, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: b73773a830c0aa9429f835cff2fb9843, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_52ED0073: 0.083
+    - Vector1_C52A2B8C: 200
+    - Vector1_FA72B9FF: 2
+    m_Colors:
+    - Vector2_31194D0B: {r: 1, g: 1, b: 0, a: 0}
+    - Vector2_3406E8A1: {r: 1, g: 1, b: 0, a: 0}
+    - Vector2_C670FE49: {r: 0, g: 2, b: 0, a: 0}
+    - Vector2_DD0D7E1A: {r: 1, g: 1, b: 0, a: 0}
+    - Vector2_F7C5D629: {r: 1.87, g: 1, b: 0, a: 0}

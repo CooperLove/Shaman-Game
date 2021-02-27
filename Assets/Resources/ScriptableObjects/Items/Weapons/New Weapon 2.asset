@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf38d940967db3d42a67d1e193404f67, type: 3}
+  m_Name: New Weapon 2
+  m_EditorClassIdentifier: 
+  _sprite: {fileID: -6732637021417778213, guid: 7f2bf3d2ee72e4145bb825af9d79a7e5,
+    type: 3}
+  _name: Epic Sword
+  itemType: 1
+  handler: {fileID: 0}
+  _necessaryLevel: 6
+  _necessaryForce: 5
+  _necessaryInt: 4
+  _necessaryDex: 3
+  _necessaryCon: 2
+  _necessaryVigor: 1
+  _phrase: "\u201CWe\u2019re going to make it happen. As God is my bloody witness,
+    I\u2019m hell-bent on making it work.\u201D"
+  _fDamage: 75
+  _mDamage: 250
+  _armorPenetration: 0
+  _magicPenetration: 0
+  _type: 1
+  bonus: {fileID: 0}

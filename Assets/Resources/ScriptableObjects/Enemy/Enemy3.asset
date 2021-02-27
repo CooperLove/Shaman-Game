@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5acbe205a6987a41bcf479d4c160e31, type: 3}
+  m_Name: Enemy3
+  m_EditorClassIdentifier: 
+  objectName: Enemy 03
+  position: {x: 0, y: 0, z: 0}
+  level: 1
+  max_HP: 9999
+  max_MP: 9999
+  max_SP: 9999
+  health: 9999
+  mana: 9999
+  stamina: 9999
+  minPhysicalDamage: 1000
+  maxPhysicalDamage: 2000
+  minMagicDamage: 1000
+  maxMagicDamage: 2000
+  armor: 100
+  magicResistance: 100
+  bleedingResistance: 0
+  poisonResistance: 0
+  isStatic: 1
+  xpGiven: 45
+  velocity: 15
+  questsImIn:
+  - {fileID: 11400000, guid: 2870eefdb5b81d6438defd364e09e9f8, type: 2}
+  - {fileID: 11400000, guid: 71b9da20b7616c945ac609205909b69b, type: 2}
+  - {fileID: 11400000, guid: 5286a0254b358f74393a0908e691f2c8, type: 2}
+  - {fileID: 11400000, guid: 49328152081eeb0419066dcb3c7c839c, type: 2}
+  - {fileID: 11400000, guid: 3aa89741af90268409e2d1a71a42e771, type: 2}

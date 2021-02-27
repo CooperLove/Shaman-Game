@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79ec46799ec48174fbe6ec29719895e5, type: 3}
+  m_Name: Crocodile Water Beam
+  m_EditorClassIdentifier: 
+  description: 'sdsa dsa dsad sads adsadsad s ds adsdsadsa dsa ds ds da
+
+
+'
+  pointsPerLevel: 0
+  currentLevel: 1
+  maxLevel: 0
+  learned: 0
+  sprite: {fileID: 0}
+  skillName: Water Beam
+  levelToLearn: 0
+  levelIncrement: 0
+  cooldown: 4
+  cost: 35
+  costIncrement: 0
+  gainOfEnergyPerUse: 7
+  preferredKeys: 6c000000

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Distortion-Scrolling Texture 12
+  m_Shader: {fileID: -6465566751694194690, guid: b7bbc6734529f7c429e292bcadf96cd4,
+    type: 3}
+  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_11702754:
+        m_Texture: {fileID: 2800000, guid: 62b5d0dc5d8a5fc499b44ea53e842894, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_5BBFB23C:
+        m_Texture: {fileID: 2800000, guid: 99d1299f9f99c234aa4b683a6dee4417, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: ada06311387d0ee4782655c0088696bb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_5A681EDB: -15
+    - Vector1_6DD5F15: 35
+    - Vector1_BBDACBFE: 0
+    m_Colors:
+    - Color_322FD56F: {r: 0, g: 0.16036485, b: 0.42352942, a: 1}
+    - Color_A8DF737D: {r: 2.828427, g: 2.828427, b: 2.828427, a: 1}
+    - Color_F99C2C8: {r: 8.47419, g: 8.47419, b: 8.47419, a: 1}
+    - Vector2_43E72A82: {r: 0, g: 1, b: 0, a: 0}
+    - Vector2_D9F71497: {r: 0, g: 1, b: 0, a: 0}
+    - Vector2_F1204628: {r: 0.75, g: 0.75, b: 0, a: 0}
